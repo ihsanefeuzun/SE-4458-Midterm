@@ -7,8 +7,6 @@ JWT Bearer Authentication
 Microsoft Azure
 SQL Server
 
-Design Idea: I designed the endpoints that for House and Booking. If we try with a same date value to book a same house by giving it house’s ID, system should give an error and not perform booking.
+Design Idea: I designed the endpoints that for House and Booking. If we try with a same date value to book a same house by giving it house’s ID, system should give an error and not perform booking. Each model has a controller, dto and a service related to it. I use SQL Server for db actions.
 
-ER Model:
- 
 Video Link: https://clipchamp.com/watch/AflUjnt4V2w
