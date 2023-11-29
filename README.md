@@ -1,5 +1,8 @@
 İhsan Efe Uzun		19070006002		House-Booking App
-Github Link:
+
+!!!!!
+Detailed informiton is at Readme Document.pdf
+
 Used Technologies:
 
 ASP .net Core 7.0
