@@ -1,7 +1,7 @@
 İhsan Efe Uzun		19070006002		House-Booking App
 
 !!!!!
-Detailed informiton is at Readme Document.pdf
+Detailed information is at Readme Document.pdf
 
 Used Technologies:
 
